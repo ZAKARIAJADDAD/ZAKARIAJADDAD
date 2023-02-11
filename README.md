@@ -5,7 +5,7 @@
   <img src="https://badge.mediaplus.ma/greenbinary/zjaddad" alt="zjaddad's 42 stats" />
   </a>
  
- <div float="left">
+ <div align="top">
    <a href="https://github.com/ZAKARIAJADDAD/libft"><img src="https://github.com/ZAKARIAJADDAD/libft/blob/master/libft.png"></a>
  
   <a href="https://github.com/ZAKARIAJADDAD/ft_printf"><img src="https://github.com/ZAKARIAJADDAD/ft_printf/blob/master/ft_printf-bonus.png"></a>
